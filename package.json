@@ -1,0 +1,25 @@
+{
+  "name": "file-size-tree",
+  "version": "0.0.0",
+  "description": "Take a list of file paths in Node, and get back an object matching d3's hierarchy layout format",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/file-size-tree.git"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "flat": "~1.0.0",
+    "commondir": "0.0.1"
+  },
+  "readmeFilename": "README.md",
+  "devDependencies": {},
+  "keywords": [
+    "file",
+    "size",
+    "data",
+    "hierarchical",
+    "d3"
+  ]
+}
